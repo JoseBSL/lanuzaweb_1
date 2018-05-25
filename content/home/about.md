@@ -10,16 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Ecology",
+    "Conservation",
+    "R stats"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Pollination Ecology"
+  institution = "University of New England"
+  year = 2017
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
