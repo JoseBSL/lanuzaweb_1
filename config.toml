@@ -59,14 +59,14 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of New England", url = "" } ]
+  organizations = [ { name = "University of New England", url = "http://www.une.edu.au/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "avatar_web_crop.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jbarraga@myune.edu.au"
   address = "W055, Ecosystem Management, University of New England"
   phone = "0481975092"
-  skype = "echo123"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -118,7 +118,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -225,7 +225,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:jbarraga@myune.edu.au"
 
   [[params.social]]
     icon = "twitter"
@@ -240,7 +240,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "://github.com/JoseBSL"
 
 
 # Navigation Links
